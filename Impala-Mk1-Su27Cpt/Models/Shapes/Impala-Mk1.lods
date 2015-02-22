@@ -1,6 +1,0 @@
-model={
-	lods={
-		{"Impala-Mk1-Su27Cpt.edm",50000.0};
-	};
-	collision_shell="Impala-Mk1-Su27Cpt_Collision.edm";
-}
