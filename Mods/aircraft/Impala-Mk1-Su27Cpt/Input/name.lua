@@ -1,1 +1,0 @@
-return _('Impala-Su27Cpt')
