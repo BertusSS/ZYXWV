@@ -1,0 +1,20 @@
+Section II Normal Procedures p.44
+Section III Emergency Procedures p.60
+Section IV Auxiliary Equipment p.82
+Section V Operating Limitations p.106
+	Maximum allowable Airspeeds p.110
+Section V Flight Characteristics p.118
+	Stall Airspeeds p.119
+Appendix I Part II - Introduction p.142
+	Aircraft Loaded Gross Weight p.157
+Appendix I Part II - Take-off p.158
+Appendix I Part III - Climb p.168
+	Time to Climb p.172
+	Best climb speed p.174
+Appendix I Part IV - Range p.176
+	Nm per lb of fuel sea level p.181
+
+
+
+
+
